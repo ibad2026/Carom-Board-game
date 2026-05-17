@@ -1,0 +1,8 @@
+{
+  "name": "Quick Carrom",
+  "description": "A lightweight, local multiplayer Carrom game with realistic physics, smooth visuals, and an optional AI opponent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
